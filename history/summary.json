@@ -58,7 +58,7 @@
     "url": "https://kavita.zeit-z.de/",
     "icon": "https://icons.duckduckgo.com/ip3/kavita.zeit-z.de.ico",
     "slug": "kavita",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -70,6 +70,7 @@
     "timeMonth": 865,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2024-09-17": 0,
       "2024-09-13": 21
     }
   }
