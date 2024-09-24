@@ -4,9 +4,9 @@
     "url": "https://zeit-z.de",
     "icon": "https://icons.duckduckgo.com/ip3/zeit-z.de.ico",
     "slug": "zeit-z",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 683,
     "timeMonth": 598,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "Vaultwarden",
@@ -59,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kavita.zeit-z.de.ico",
     "slug": "kavita",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.38%",
     "uptimeDay": "93.97%",
-    "uptimeWeek": "98.88%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 1308,
     "timeDay": 6003,
-    "timeWeek": 1787,
+    "timeWeek": 1851,
     "timeMonth": 1308,
     "timeYear": 1308,
     "dailyMinutesDown": {
